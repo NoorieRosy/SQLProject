@@ -1,1 +1,1 @@
-# SQLProjectZomato
+# SQL Projects 
